@@ -16,12 +16,11 @@ Here are some variables that are theme specific that you might want to set
  - `TWITTER_URL`
  - `GITHUB_URL`
  - `AUTHOR_EMAIL`
- 
  - `LINKS` - These are the links that appear right beside the title
  
-      LINKS = (
-          ('    home', SITEURL), # Name, URL
-          ('photos','http://blog.fuss.in'),
-          ('about','#footer')
-      )
+        LINKS = (
+            ('    home', SITEURL), # Name, URL
+            ('photos','http://blog.fuss.in'),
+            ('about','#footer')
+        )
 
